@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "273189953437",
+    "firebase_url": "https://mexicaneando-8fcad.firebaseio.com",
+    "project_id": "mexicaneando-8fcad",
+    "storage_bucket": "mexicaneando-8fcad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:273189953437:android:2a93b44f831953f3775974",
+        "android_client_info": {
+          "package_name": "com.ggl.mexicaneando"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "273189953437-rhaclke9jnlkbsil1b0i80p680o890af.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ggl.mexicaneando",
+            "certificate_hash": "0c982f885e6d595dd18142690e8e97cb51053fb2"
+          }
+        },
+        {
+          "client_id": "273189953437-rbkfs8s32a7kb5jepvj8q0b4qjt5pcck.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDU90xOQbYfWG1sQwkXMEkl7ABtItfN4G8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "273189953437-rbkfs8s32a7kb5jepvj8q0b4qjt5pcck.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
