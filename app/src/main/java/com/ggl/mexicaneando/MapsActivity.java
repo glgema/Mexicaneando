@@ -43,5 +43,7 @@ public class MapsActivity extends FragmentActivity implements OnMapReadyCallback
         LatLng sydney = new LatLng(19.436505, -99.132414);
         mMap.addMarker(new MarkerOptions().position(sydney).title("Ciudad de México"));
         mMap.moveCamera(CameraUpdateFactory.newLatLng(sydney));
+
+        mMap.animateCamera(CameraUpdateFactory.newLatLngZoom(sydney, 7));
     }
 }
